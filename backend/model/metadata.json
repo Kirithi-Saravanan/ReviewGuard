@@ -1,0 +1,12 @@
+{
+    "optimal_threshold": 0.7524242424242424,
+    "best_config_name": "Word_TFIDF_LogisticRegression",
+    "metrics": {
+        "test_accuracy": 0.9748743718592965,
+        "test_balanced_accuracy": 0.49238578680203043,
+        "test_precision": 0.9897959183673469,
+        "test_recall": 0.9847715736040609,
+        "test_f1": 0.9872773536895675,
+        "test_auc": 0.7131979695431472
+    }
+}
